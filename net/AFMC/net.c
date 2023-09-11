@@ -4,7 +4,7 @@
 
 #include <stdint.h>
 
-#include </eda_work/tolba/gem5/dr_ayman/net/alg2/conv_2d_1.h>
+#include <./conv_2d_1.h>
 
 
 //// first layer
