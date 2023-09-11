@@ -1,4 +1,4 @@
-this repository consist of four folders: baseline, AWF, AFSC and AFMC.
-each folder is a c code for a convolution layer with 256 input channels and 384 output channels in which the filters are 256x384.
-
-the input size is 13x13.
+This repository comprises four folders: baseline, AWF, AFSC, and AFMC. 
+Each folder contains C code for a convolution layer with 256 input channels, 384 output channels, and a 3x3 filter size, 
+where the filters are   3x3x256x384. 
+The input size for this layer is 13x13.
